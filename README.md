@@ -6,12 +6,12 @@ Automatic Backup Bash Script for Linux system
 
 ---
 
-## 📋 Overview  
+## Overview  
 This project provides a lightweight, Bash-based script to automate file backups in DevOps environments. It creates compressed archives of files modified within the last 24 hours and stores them in a designated directory. Ideal for CI/CD pipelines, cron jobs, or standalone backups.  
 
 ---
 
-## 🚀 Key Features  
+## Key Features  
 - **Flexible**: Specify any target and destination directories as arguments.  
 - **Efficient**: Backs up only files modified in the last 24 hours to optimize storage.  
 - **Portable**: Works on most Linux distributions and macOS.  
@@ -19,7 +19,7 @@ This project provides a lightweight, Bash-based script to automate file backups 
 
 ---
 
-## 🛠️ Installation  
+## Installation  
 
 ### Prerequisites  
 - Linux/macOS system with Bash.  
@@ -43,7 +43,7 @@ This project provides a lightweight, Bash-based script to automate file backups 
 
 ---
 
-## 💻 Usage  
+## Usage  
 
 ### Basic Execution  
 Run the script with the target and destination directories as arguments:
@@ -71,7 +71,7 @@ To automate daily backups:
 
 ---
 
-## 🔧 Enhancements & Integrations  
+## Enhancements & Integrations  
 
 ### Cloud Storage Integration  
 Upload backups to AWS S3, Google Cloud, or Azure using CLI tools:
@@ -89,7 +89,7 @@ Upload backups to AWS S3, Google Cloud, or Azure using CLI tools:
 
 ---
 
-## 🤝 Contributing  
+## Contributing  
 Contributions are welcome! Follow these steps:
 
 1. Fork the repository.
@@ -102,35 +102,21 @@ Contributions are welcome! Follow these steps:
 
 ---
 
-## 📜 License  
+## License  
 This project is licensed under the MIT License. See LICENSE for details.
 
 ---
 
-## 📬 Contact  
+## Contact  
 For questions or collaborations:
 
-- **Email**: your.email@example.com  
-- **LinkedIn**: [Your Profile](https://www.linkedin.com/in/your-profile)  
-- **GitHub**: [@your-username](https://github.com/your-username)  
+- **Email**: usamatariqf70@gmail.com  
+- **LinkedIn**:  https://www.linkedin.com/in/usama-tariq-aacc90  
 
+- Contact me if your need any help. 😊
 ---
 
-## ⭐ GitHub Repo  
-If you find this repo useful, don't forget to star it! 🌟  
+## GitHub Repo  
+If you find this repo useful, don't forget to star it!  
 
----
-
-### How to Use This File  
-1. Copy the entire content above.  
-2. Create a new file named `README.md` in your GitHub repository.  
-3. Paste the content and replace placeholders (e.g., `your-username`, `your.email@example.com`).  
-4. Commit and push to GitHub.  
-
-This README is optimized for:  
-- **SEO**: Keywords like *DevOps, backups, automation, cron, Bash, cloud integration*.  
-- **Readability**: Clear sections, code blocks, and bullet points.  
-- **Professionalism**: Structured for technical and non-technical audiences.  
-
-Let me know if you need further refinements! 😊
-
+--- 
